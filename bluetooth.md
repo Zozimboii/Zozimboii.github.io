@@ -1,3 +1,4 @@
+**Bluetooth**
 
 ------------
 **CISPP Glossary - Student Guide**
