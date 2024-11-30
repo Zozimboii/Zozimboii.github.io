@@ -56,7 +56,7 @@ Bluetooth (Wireless Personal Area Network IEEE 802.15) :
 
 ------------
 
-URL : https://bxnkz.github.io/bluetooth
+URL : [Link](https://bxnkz.github.io/bluetooth)
 
 ------------
 
