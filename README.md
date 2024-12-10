@@ -6,4 +6,4 @@ Pruksakorn Saiweal 653200720
 ![Boss](/Image/IMG_1888.jpeg)
 
 Work
--Week 1 : [Week1](bluetooth)
+-Week 1 : [bluetooth](https://zozimboii.github.io/bluetooth)
