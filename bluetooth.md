@@ -55,6 +55,10 @@ Bluetooth (Wireless Personal Area Network IEEE 802.15) :
 
 - ลำโพงบลูทูธ
 
+- แท็บเล็ต
+
+- ทีวี  
+
 ------------
 
 URL : [Bank's Link](https://bxnkz.github.io/bluetooth)
