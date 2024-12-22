@@ -2,4 +2,4 @@
 
 ใช้เครื่องมือ : https://stylesuxx.github.io/steganography/
 
-![Chistmas&happynewyear](/Image/Pasd.png)
+![Chistmas&happynewyear](/Image/Chrismas.png)
