@@ -4,6 +4,8 @@
 
 **The DQ Glossary**
 
+- Source [https://www.dqglobal.com/home/dq-glossary/](https://www.dqglobal.com/home/dq-glossary/)
+
 ------------
 
 Data Transformation :
