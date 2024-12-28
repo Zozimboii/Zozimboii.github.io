@@ -7,16 +7,16 @@
 ------------
 
 Data Transformation :
--The process of editing data by abbreviating, elaborating, normalising etc.
--This can include examples such as abbreviating United Kingdom to UK, elaborating Rd to Road or normalising ‘Johnny & ‘Jonathan’ to ‘John’. 
+- The process of editing data by abbreviating, elaborating, normalising etc.
+- This can include examples such as abbreviating United Kingdom to UK, elaborating Rd to Road or normalising ‘Johnny & ‘Jonathan’ to ‘John’. 
 
 (ChatGPT)
 
--Data Transformation : กระบวนการแก้ไขข้อมูลโดยการย่อขนาด ขยายความ ทำให้เป็นมาตรฐาน เป็นต้น ตัวอย่างเช่น การย่อคำว่า United Kingdom เป็น UK, การขยายคำว่า Rd เป็น Road, หรือการทำให้คำที่หลากหลาย เช่น Johnny และ Jonathan เป็นคำเดียวกันคือ John
+- Data Transformation : กระบวนการแก้ไขข้อมูลโดยการย่อขนาด ขยายความ ทำให้เป็นมาตรฐาน เป็นต้น ตัวอย่างเช่น การย่อคำว่า United Kingdom เป็น UK, การขยายคำว่า Rd เป็น Road, หรือการทำให้คำที่หลากหลาย เช่น Johnny และ Jonathan เป็นคำเดียวกันคือ John
 
 (Gemini)
 
--Data Transformation : กระบวนการแก้ไขข้อมูลโดยการย่อ, ขยายรายละเอียด, ปรับให้เป็นรูปแบบเดียวกัน ฯลฯ ซึ่งอาจรวมถึงตัวอย่าง เช่น การย่อ United Kingdom เป็น UK, การขยาย Rd เป็น Road หรือการทำให้เป็นรูปแบบเดียวกันของ 'Johnny' และ 'Jonathan' เป็น 'John'
+- Data Transformation : กระบวนการแก้ไขข้อมูลโดยการย่อ, ขยายรายละเอียด, ปรับให้เป็นรูปแบบเดียวกัน ฯลฯ ซึ่งอาจรวมถึงตัวอย่าง เช่น การย่อ United Kingdom เป็น UK, การขยาย Rd เป็น Road หรือการทำให้เป็นรูปแบบเดียวกันของ 'Johnny' และ 'Jonathan' เป็น 'John'
 
 ------------
 
@@ -24,7 +24,7 @@ Data Transformation :
 
 ------------
 
--Data Transformation : กระบวนการแก้ไขข้อมูลโดยการใช้รูปแบบต่างๆ เช่น การย่อ การขยาย และการทำให้เป็นรูปแบบเดียวกัน เพื่อให้ข้อมูลสอดคล้องและถูกต้องมากขึ้น
+- Data Transformation : กระบวนการแก้ไขข้อมูลโดยการใช้รูปแบบต่างๆ เช่น การย่อ การขยาย และการทำให้เป็นรูปแบบเดียวกัน เพื่อให้ข้อมูลสอดคล้องและถูกต้องมากขึ้น
 
 ------------
 
