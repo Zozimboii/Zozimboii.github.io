@@ -11,4 +11,4 @@ Work
 
 -Hw : [Christmas & New Year 2025](https://zozimboii.github.io/Christmas_&_New_Year_2025)
 
--Hw2 : [Data Transformation](https://zozimboii.github.io/Data_Transformation)
+-Hw2 : [Data Transformation](https://zozimboii.github.io/data-transformation)
