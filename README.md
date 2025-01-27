@@ -5,12 +5,12 @@ Pruksakorn Saiweal 653200720
 - Hobby : listen to music , watch youtube
 ![Boss](/Image/IMG_1888.jpeg)
 
-Work
+# Work
 
-# Week 1 : [bluetooth](https://zozimboii.github.io/bluetooth)
+## Week 1 : [bluetooth](https://zozimboii.github.io/bluetooth)
 
-# Hw : [Christmas & New Year 2025](https://zozimboii.github.io/Christmas_&_New_Year_2025)
+## Hw : [Christmas & New Year 2025](https://zozimboii.github.io/Christmas_&_New_Year_2025)
 
-# Hw2 : [Data Transformation](https://zozimboii.github.io/data-transformation)
+## Hw2 : [Data Transformation](https://zozimboii.github.io/data-transformation)
 
-# Hw3 : [Security Control](https://zozimboii.github.io/security-control)
+## Hw3 : [Security Control](https://zozimboii.github.io/security-control)
