@@ -56,7 +56,7 @@
 
 ## สมาชิกคนอื่นในกลุ่ม
 
-- [Pruksakorn Saiweal](Zozimboii.github.io/README.md)
+- [Pruksakorn Saiweal](https://zozimboii.github.io/)
 
 
 
