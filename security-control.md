@@ -2,6 +2,8 @@
 
 ------
 
+![](/Image/security-control.png)
+
 **Source** [https://purplesec.us/learn/security-controls/](https://purplesec.us/learn/security-controls/)
 
 ------
