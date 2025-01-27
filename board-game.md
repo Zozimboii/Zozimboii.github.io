@@ -50,7 +50,7 @@
 
 ---
 
-[](https://www.youtube.com/watch?v=H051c8pCy3s)
+[![Cyber Board Game](/Image/bg1.jpg)](https://youtu.be/H051c8pCy3s?si=BKHIzt8e9zGtXHg2 "Cyber Board Game")
 
 
 ## ปล.
