@@ -17,7 +17,7 @@ Image selfie
 
 การใช้กุญแจห้อง จัดเป็น :
 
-- Type of Security Controls : Physical Control
+- *Type of Security Controls :* Physical Control
 
 - Control Functions : Preventive
 
