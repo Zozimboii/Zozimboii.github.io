@@ -19,7 +19,7 @@ Image selfie
 
 -Type of Security Controls : Physical Control
 
--Control Functions : Preventive Control
+-Control Functions : Preventive
 
 -Description : การล็อกประตูช่วยป้องกันบุคคลภายนอกที่ไม่ได้รับอนุญาตให้เข้ามาในพื้นที่ส่วนตัว ซึ่งเป็นการควบคุมphysicalที่มุ่งเน้นการปกป้องสถานที่จากภายนอกได้
 
