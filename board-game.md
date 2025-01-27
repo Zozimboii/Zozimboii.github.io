@@ -41,12 +41,17 @@
 
 ---
 
-
+![](/Image/bg1.jpg)
+![](/Image/bg2.jpg)
+![](/Image/bg3.jpg)
 
 
 ## วิดีโอกิจกรรม
 
 ---
+
+[](https://www.youtube.com/watch?v=H051c8pCy3s)
+
 
 ## ปล.
 
@@ -58,6 +63,4 @@
 
 - [Pruksakorn Saiweal](https://zozimboii.github.io/)
   
-- [Kittithron](https://kitty340822.github.io/)
-
 
