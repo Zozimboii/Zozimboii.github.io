@@ -54,7 +54,7 @@
 
 - [6530200398 รติพงษ์ วันวิเสส](https://github.com/bxnkz/board-game)
 
-- [6530200592 เจตนิพิฐ คงเกษม]()
+- [6530200592 เจตนิพิฐ คงเกษม](https://jatnipit.github.io/cyber-board-game)
 
 - [6530200720 พฤษกรณ์ สายแวว](https://zozimboii.github.io/board-game)
 
