@@ -38,7 +38,9 @@
 ![](/Image/bg1.jpg)
 ![](/Image/bg2.jpg)
 ![](/Image/bg3.jpg)
-
+![](/Image/bg5.png)
+![](/Image/bg6.png)
+![](/Image/bg7.png)
 
 ## วิดีโอกิจกรรม
 
