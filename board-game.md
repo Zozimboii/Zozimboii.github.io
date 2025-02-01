@@ -54,7 +54,7 @@
 
 - [6530200126 ณัฐฐภัทร กลิ่นขจร](https://nantta.github.io/board-game)
 
-- [6530200398 รติพงษ์ วันวิเสส](https://github.com/bxnkz/board-game)
+- [6530200398 รติพงษ์ วันวิเสส](https://bxnkz.github.io/board-game)
 
 - [6530200592 เจตนิพิฐ คงเกษม](https://jatnipit.github.io/cyber-board-game)
 
