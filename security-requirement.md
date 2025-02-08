@@ -1,7 +1,10 @@
-*RESTful Web Service*
-*13.2.6 Details*
+# 13.2.6 RESTful Web Service
 
 ------------
+
+## 13.2.6 Details
+
+---
 
 Verify that the message headers and payload are trustworthy and not
 modified in transit. Requiring strong encryption for transport (TLS only) may
@@ -34,6 +37,6 @@ with them additional complexity and risks to weigh against the benefits.
 ------------
 
 
-URL : )
+URL : [Bank Link](https://bxnkz.github.io/security-requirement)
 
 ------------
