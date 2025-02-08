@@ -3,6 +3,7 @@ Pruksakorn Saiweal 653200720
 - Age : 21
 - Nickname : Boss
 - Hobby : listen to music , watch youtube
+- In my free time : play board game , sometime go badminton and practice coding
 ![Boss](/Image/IMG_1888.jpeg)
 
 # Work
