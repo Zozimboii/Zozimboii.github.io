@@ -16,3 +16,5 @@ Pruksakorn Saiweal 653200720
 ## HW 4 : [Security Control](https://zozimboii.github.io/security-control)
 
 ## HW 5 : [Board Game](https://zozimboii.github.io/board-game)
+
+## HW 6 : [Security Requirement](https://zozimboii.github.io/security-requirement)
